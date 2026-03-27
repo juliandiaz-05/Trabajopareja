@@ -1,3 +1,4 @@
+//1
 // Creamos un arreglo con 5 aprendices
 let asistencia = ["Ana", "Luis", "Carlos", "María", "Sofía"];
 
